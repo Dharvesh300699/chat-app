@@ -172,7 +172,7 @@ button:disabled {
     .compose input {
         margin: 0;
         padding: 8px;
-        font-size: 10px
+        font-size: 14px
     }
     .compose button {
         padding: 8px;
@@ -182,6 +182,15 @@ button:disabled {
         margin-right: 10px
     }
     .chat__sidebar {
-        width: 150px
+        width: 120px
+    }
+    .room-title {
+        padding: 20px
+    }
+    .list-title {
+        padding: 12px 20px 0 20px
+    }
+    .users {
+        padding: 12px 20px 0 20px
     }
 }
