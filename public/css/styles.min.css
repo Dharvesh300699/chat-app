@@ -182,15 +182,15 @@ button:disabled {
         margin-right: 10px
     }
     .chat__sidebar {
-        width: 120px
+        width: 125px
     }
     .room-title {
-        padding: 20px
+        padding: 15px
     }
     .list-title {
-        padding: 12px 20px 0 20px
+        padding: 12px 10px 0 10px
     }
     .users {
-        padding: 12px 20px 0 20px
+        padding: 12px 10px 0 10px
     }
 }
