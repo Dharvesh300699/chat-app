@@ -192,7 +192,7 @@ button:disabled {
     .compose input {
         margin: 0;
         padding: 8px;
-        font-size: 10px
+        font-size: 14px
     }
     .compose button {
         padding: 8px;
@@ -200,5 +200,8 @@ button:disabled {
     }
     .compose form {
         margin-right: 10px
+    }
+    .chat__sidebar {
+        width: 150px;
     }
 }

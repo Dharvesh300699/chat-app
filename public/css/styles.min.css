@@ -181,4 +181,7 @@ button:disabled {
     .compose form {
         margin-right: 10px
     }
+    .chat__sidebar {
+        width: 150px
+    }
 }
